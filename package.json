@@ -16,7 +16,8 @@
     "react-navigation": "^3.11.0"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.1.1"
+    "babel-preset-expo": "^5.1.1",
+    "install-peers": "^1.0.3"
   },
   "private": true
 }
